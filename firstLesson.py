@@ -18,7 +18,3 @@
 # print(dif)
 # dif2=num1-num3
 # print(dif2)
-family = input('What is your father job?')
-print('Your father job is', family)
-family2 = input('What is your mother job?')
-print('Your mother job is', family2)
