@@ -58,3 +58,5 @@ oil_index=people.index("oil")
 print(oil_index)
 people[oil_index]="rererer"
 print(people)
+print(people)
+
