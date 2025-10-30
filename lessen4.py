@@ -116,14 +116,14 @@
 #     print('не справедливы неравенства A ≥ 0 или B < −2')
  
     
-# text="rustaaaam efefef. efefefef"
+text="rustaaaam efefef. efefefef"
 # list1="milk"
 # new_text=text.upper()
 # new_text=text.lower()
 # new_text=text.capitalize()
 # new_text=list1.replace("k", 'ch')
-# name=text.split()
-# print(name)
+name=text.split(" ")
+print(name)
 
 
 
